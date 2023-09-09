@@ -29,7 +29,7 @@
 1. **Клонируйте репозиторий на свой локальный компьютер:**
 
     ```bash
-    git clone https://github.com/ваш-локальный-репозиторий.git
+    git clone https://github.com/wascrashed/team-fight-tactics
     ```
 
 2. **Установите необходимые зависимости Laravel:**
